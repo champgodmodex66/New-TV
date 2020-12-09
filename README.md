@@ -1,2 +1,0 @@
-# New-TV
-IPTV
